@@ -15,4 +15,4 @@ The notebooks are best viewed online using nbviewer as GitHub doesn't do a great
  - ### Part 2b: Entropic regularisation
     <https://nbviewer.org/github/james-nichols/COT_notebooks/blob/main/COT_2b_entropic_regularisation.ipynb>
 
-To complete and run these notebooks you will need a recent installation of Python (Version 3.6+) along with the Numpy, Scipy, and matplotlib packages. You will also need to (install Jupyter)[https://jupyter.org/install].
+To complete and run these notebooks you will need a recent installation of Python (Version 3.6+) along with the Numpy, Scipy, and matplotlib packages. You will also need to [install Jupyter](https://jupyter.org/install).
